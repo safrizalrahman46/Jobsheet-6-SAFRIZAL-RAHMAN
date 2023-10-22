@@ -18,6 +18,7 @@ public class Selection2Exp1Student22 {
         } else {
             System.out.println("Not A Leap Year");
         }
+        
         // if (year%4==0) {
         //     if (year%100!=0) {
         //         System.out.println("Leap Year"); 
