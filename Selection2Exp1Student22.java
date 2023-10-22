@@ -12,6 +12,8 @@ public class Selection2Exp1Student22 {
         }   else {
                 System.out.println("Not A leap Year");
         }
+        }   else { 
+            System.out.println("Not A leap Yea"); }
     }
 }
-}
+
